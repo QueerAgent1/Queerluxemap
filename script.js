@@ -1,5 +1,5 @@
 // Set your Mapbox API token
-mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';
+mapboxgl.accessToken = pk.eyJ1IjoicXVlZXJhZ2VudDEiLCJhIjoiY20yaWoxaW5xMG9wajJtcHJpYTR0aXAzeCJ9.jipqkZG3SvUsr3-mJ64srA
 
 // Initialize the map
 const map = new mapboxgl.Map({
